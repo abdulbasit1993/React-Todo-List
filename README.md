@@ -1,5 +1,5 @@
 ## Live Demo
-[Click Here](https://abdulbasit1993-react-todo-list.netlify.app) to view a demo of this Web App
+[Click Here](https://distracted-meninsky-8d256e.netlify.app/) to view a demo of this Web App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
